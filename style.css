@@ -91,8 +91,7 @@ ul.right li:hover {
     background-color: rgba(255, 255, 255, 0.3);
     color: rgba(255, 255, 255);
     font-size: 18px;
-    cursor: pointer;
-    
+    cursor: pointer;  
 } 
 
 
@@ -139,7 +138,7 @@ a.btn:hover {
     background-repeat: no-repeat;
     background-position: 150% 50%;
     width: 100vw;
-    height: 1000px;
+    height: 998px;
 }
 
 .design {
